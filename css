@@ -1,0 +1,4 @@
+ body { font-family: Arial; padding: 20px; background: #f5f5f5; }
+ .profile { background: white; padding: 20px; max-width: 600px; margin: auto; }
+ .posts { margin-top: 20px; }
+ .post { background: #eee; padding: 10px; margin: 10px 0; }
